@@ -1,6 +1,6 @@
 # Jogo_da_Velha
     - Criando o Jogo da Velha
-    - Projeto Prático da Digital Inovation One
+    - Projeto Prático da Digital Innovation One
 
 #### Criando o Game
     - 12/11/2021 - Sexta Feira
